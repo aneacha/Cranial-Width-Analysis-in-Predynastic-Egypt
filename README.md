@@ -1,6 +1,6 @@
 # 🧠 Análisis de la anchura craneal en el Predinástico Egipcio
 
-Este proyecto analiza si existen diferencias en la anchura craneal (en milímetros) entre dos grupos arqueológicos:  
+Este ejercicio analiza si existen diferencias en la anchura craneal (en milímetros) entre dos grupos arqueológicos:  
 **Periodo Predinástico Temprano (Periodo 1)** y **Periodo Predinástico Tardío (Periodo 2)**.
 
 El objetivo es aplicar técnicas de estadística básica para evaluar si la anchura del cráneo cambió con el paso del tiempo.
